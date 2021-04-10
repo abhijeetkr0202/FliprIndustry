@@ -22,10 +22,10 @@ POST       abhijeetkr0202.pythonanywhere.com
 GET        abhijeetkr0202.pythonanywhere.com
 
 •	Get a particular user based on user_id
-    GET       abhijeetkr0202.pythonanywhere.com/<id>/info
+    GET       abhijeetkr0202.pythonanywhere.com/user_id/info
 
 •	Modify user details based on user_id
-PUT           abhijeetkr0202.pythonanywhere.com/<id>/info
+PUT           abhijeetkr0202.pythonanywhere.com/user_id/info
 
 •	Delete a user
 DELETE     abhijeetkr0202.pythonanywhere.com/<id>/info
